@@ -4,3 +4,8 @@ Branch change_line_2 : Change two time. Time 1 commit first  . Sau đó commit l
 Tìm đến chân trời mới  
 Vẫn thương một người  
 Đã khuất xa ngàn khơi.  
+
+commit 1
+
+
+commit 2
